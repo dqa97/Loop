@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d08d3f-2036-43b9-bb9e-a3325a31c613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ád.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/looplongnhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/looplongnhau.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602559433112</updated>
       <workItem from="1602559434220" duration="10724000" />
-      <workItem from="1602596484731" duration="4564000" />
+      <workItem from="1602596484731" duration="5986000" />
     </task>
     <servers />
   </component>
